@@ -6,13 +6,6 @@ you can visit the site (https://github.com/lqh12345/Jacquard_V2?tab=readme-ov-fi
 
 This project investigates the problem of planar robotic grasp detection from RGB-D images using the Jacquard dataset. The task consists of predicting a grasp configuration for a parallel-jaw gripper, represented as an oriented rectangle in the image plane. The rectangle encodes: (grasp center position (x, y), orientation angle θ, gripper jaw width, gripper jaw height)
 
-### Problem statement
-
-### Theoretical background 
-
-
-### Implemented models
-
 
 ### Dataset
 
