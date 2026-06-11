@@ -10,6 +10,5 @@ This project focuses on developing and demonstrating an integrated robotic grasp
 ### Dataset
 
 Experiments are performed on the Jacquard dataset, which contains: synthetic RGB images, depth maps and grasp annotations in text format.
-Preprocessing includes: resize to 256×256 , depth normalization and conversion of annotations into heatmaps
-Dataset is split into: 80% training, 20% validation.
+
 you can visit the site (https://github.com/lqh12345/Jacquard_V2?tab=readme-ov-file#section1) for more information about the dataset and download the full one
